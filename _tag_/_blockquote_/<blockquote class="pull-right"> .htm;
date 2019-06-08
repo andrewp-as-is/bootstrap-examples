@@ -1,0 +1,15 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <blockquote class="pull-right">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+        </blockquote>
+    </div>
+    
+</body>
+</html>
